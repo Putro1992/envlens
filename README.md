@@ -4,6 +4,8 @@
 [![PyPI version](https://img.shields.io/pypi/v/envlens.svg)](https://pypi.org/project/envlens/)
 [![Python versions](https://img.shields.io/pypi/pyversions/envlens.svg)](https://pypi.org/project/envlens/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![good first issue](https://img.shields.io/github/issues/Putro1992/envlens/good%20first%20issue.svg)](https://github.com/Putro1992/envlens/labels/good%20first%20issue)
+[![Discussions](https://img.shields.io/badge/discussions-welcome-7c3aed.svg)](https://github.com/Putro1992/envlens/discussions)
 
 **A zero-dependency lens for `.env` files.** Verify a deployment config against its
 template, diff two configs key by key, and audit for weak secrets — without ever
@@ -173,8 +175,10 @@ should be implementable with the standard library; tests use `unittest`.
 ## Contributing
 
 Contributions are welcome — start with [`CONTRIBUTING.md`](CONTRIBUTING.md) and
-the open issues labeled `good first issue`. Please report security problems
-privately as described in [`SECURITY.md`](SECURITY.md).
+the open issues labeled `good first issue`. Questions and ideas belong in
+[GitHub Discussions](https://github.com/Putro1992/envlens/discussions); ready-to-post
+announcement text is in [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md). Please report security
+problems privately as described in [`SECURITY.md`](SECURITY.md).
 
 ## Roadmap
 
