@@ -36,10 +36,10 @@ dev = ["build>=1.0", "twine>=4.0"]
 envlens = "envlens.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/envlens"
-Repository = "https://github.com/YOUR_USERNAME/envlens"
-Issues = "https://github.com/YOUR_USERNAME/envlens/issues"
-Changelog = "https://github.com/YOUR_USERNAME/envlens/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Putro1992/envlens"
+Repository = "https://github.com/Putro1992/envlens"
+Issues = "https://github.com/Putro1992/envlens/issues"
+Changelog = "https://github.com/Putro1992/envlens/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -6,7 +6,7 @@ good contribution is usually **one focused change with tests**.
 ## Getting set up
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/envlens.git
+git clone https://github.com/Putro1992/envlens.git
 cd envlens
 python -m venv .venv && source .venv/bin/activate
 python -m pip install -e ".[dev]"

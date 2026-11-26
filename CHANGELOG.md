@@ -21,5 +21,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - PyPI release workflow using trusted publishing
 - 22 unit and CLI tests
 
-[Unreleased]: https://github.com/YOUR_USERNAME/envlens/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/YOUR_USERNAME/envlens/releases/tag/v0.1.0
+[Unreleased]: https://github.com/Putro1992/envlens/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/Putro1992/envlens/releases/tag/v0.1.0

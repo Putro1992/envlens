@@ -1,6 +1,6 @@
 # envlens
 
-[![CI](https://github.com/YOUR_USERNAME/envlens/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/envlens/actions/workflows/ci.yml)
+[![CI](https://github.com/Putro1992/envlens/actions/workflows/ci.yml/badge.svg)](https://github.com/Putro1992/envlens/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/envlens.svg)](https://pypi.org/project/envlens/)
 [![Python versions](https://img.shields.io/pypi/pyversions/envlens.svg)](https://pypi.org/project/envlens/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
